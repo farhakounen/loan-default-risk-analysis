@@ -14,4 +14,4 @@ Dashboard Pages
 
 Download the Interactive Dashboard
 
-"Download Loan Default Risk Dashboard (.pbix)" (PASTE_LINK_HERE)
+[Download Loan Default Risk Dashboard (.pbix)](https://github.com/farhakounen/loan-default-risk-analysis/raw/refs/heads/main/LOAN%20DEFAULT%20RISK%20ANALYSIS.pbix)
